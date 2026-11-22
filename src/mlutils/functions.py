@@ -9,7 +9,6 @@ import re
 import zipfile
 from pathlib import Path
 
-import IPython
 import requests
 import torch
 from tqdm import tqdm
